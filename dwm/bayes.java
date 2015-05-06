@@ -1,3 +1,5 @@
+//coded by sunny_patel
+//Bayes Classification
 import java.io.*;
 class dataset
 {
