@@ -1,4 +1,6 @@
 //coded by sunny_patel
+//Primss algorithm
+
 //enter all inouts in new line
 //pirms program.... for dijstra 3 changes as mentioned in comments
 import java.io.*;
