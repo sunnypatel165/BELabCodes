@@ -1,5 +1,7 @@
 //coded by sunny_patel
 //does not consider indirect left recrsion
+
+//Removal of left recursion
 import java.io.*;
 import java.util.*;
 class leftrecursion
