@@ -1,5 +1,9 @@
 # BELabCodes
-These is the collection of codes I wrote as lab experiments during my BE
+This is the collection of codes I wrote as lab experiments during my BE.
+These codes can also be found at codeoutofbounds.com 
+Above site was creating with intention of sharing codes to help each other do well in exams.
+
+Most of these codes are written by me completely. If you find a code that is similar to yours/any other over the internet and i havent given credits, i can assure you it was unintentional, and i apologize for the same. 
 
 Most codes are in java or specified otherwise. 
 
@@ -94,3 +98,4 @@ Index:
 </ul>
 
 
+Feel free to open an issue or pull request :)
