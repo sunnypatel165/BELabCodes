@@ -1,4 +1,5 @@
 //coded by sunny_patel
+//./HAmming code
 import java.util.*;
 class hamming_code
 {
