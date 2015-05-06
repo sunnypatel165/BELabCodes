@@ -1,4 +1,7 @@
 //coded by sunny_patel
+
+//Apriori Algorithm
+
 //to make generlised, take input of number of ttransactions,items and transaction matrix!! and also add thsoe many items
 //might not work on 100% inputs! tried to keep it simple
 import java.io.*;
