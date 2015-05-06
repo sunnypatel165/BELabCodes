@@ -1,4 +1,5 @@
 //coded by sunny_patel
+//Selection sort
 import java.util.*;
 class selection
 {
