@@ -1,4 +1,5 @@
 //coded by sunny_patel
+//GoBackN
 import java.io.*;
 class goBack
 {
