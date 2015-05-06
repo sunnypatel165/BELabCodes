@@ -1,4 +1,6 @@
 //coded by sunny_patel
+
+//Merge Sort
 import java.io.*;
 import java.util.*;
 class Mer
