@@ -1,0 +1,6 @@
+int
+char
+void
+iostream.h
+cout
+stdio.h

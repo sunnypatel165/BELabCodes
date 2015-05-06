@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<stdio.h>
+void main()
+{
+	int a=3;
+	char s='a';
+	cout<<a;
+}
+
