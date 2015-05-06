@@ -1,4 +1,5 @@
 //coded by sunny_patel
+//Boyer Moore String matching algorithm
 import java.io.*;
 import java.util.*;
 class BM
