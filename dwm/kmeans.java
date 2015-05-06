@@ -1,3 +1,5 @@
+//coded by sunny_patel
+//K Means Clsutering
 import java.io.*;
 class kmeans
 {
