@@ -1,6 +1,8 @@
 //coded by sunny_patel
 //should work on most cases! 
 //this is single link only!
+
+//Single link clustering
 import java.io.*;
 import java.util.*;
 class hierarchical
