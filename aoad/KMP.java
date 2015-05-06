@@ -1,4 +1,5 @@
 //coded by sunny_patel
+///KMP string matching
 import java.util.*;
 class KMP
 {
