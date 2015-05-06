@@ -1,4 +1,5 @@
 //coded by sunny_patel
+//Quick Sort
 import java.util.*;
 class quick
 {
