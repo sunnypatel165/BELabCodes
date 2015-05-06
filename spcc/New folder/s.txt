@@ -1,5 +1,0 @@
-REPEAT: label 1008
-N1 variable 1018
-N2 variable 1019
-COUNT variable 1020
-PROD variable 1021

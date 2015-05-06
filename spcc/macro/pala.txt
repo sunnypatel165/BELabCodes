@@ -1,7 +1,0 @@
-INDEX	ARGUMENT
-1	&arg2
-2	&arg2
-3	&arg3
-4	&arg1
-5	&arg2
-6	&arg3
