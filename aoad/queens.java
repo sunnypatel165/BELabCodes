@@ -1,4 +1,6 @@
 //coded by sunny_patel
+
+//N Queens with N=10 default
 import java.util.*;
 class queen
 {
