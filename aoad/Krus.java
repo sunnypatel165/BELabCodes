@@ -1,5 +1,7 @@
 //coded by sunny_patel
 //enter all inputs(2 nodes of the edge and weights) in new line..
+
+//Kruskal MST
 import java.io.*;
 import java.util.Vector;
 
