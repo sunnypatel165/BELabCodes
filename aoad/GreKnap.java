@@ -1,4 +1,5 @@
 //coded by sunny_patel
+//Greedy Knapsack
 import java.io.*;
 class GreKnap
 {
