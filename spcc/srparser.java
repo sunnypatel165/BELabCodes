@@ -1,5 +1,6 @@
 //coded by sunny_patel
 //doesnt report reduce reduce conflict. simply says accept or reject
+///SR parseer
 import java.io.*;
 class srparser
 {
