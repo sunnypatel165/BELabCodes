@@ -4,9 +4,9 @@ These is the collection of codes I wrote as lab experiments during my BE
 Most codes are in java or specified otherwise. 
 
 Please look at the input format that the code expects, most codes wont work if the inputs arent proper.
+Also, I will keep adding as and when i find codes(3 years old you see/)
 
 Other resoruces needed depend on subject and the code itself.
-Also, I will keep adding as and when i find codes(3 years old you see/)
 But generally would need:
 
 Java<br>
@@ -15,7 +15,7 @@ Jquery<br>
 PHP<br>
 MySQL<br>
 XAMPP<br>
-TASM<br?
+TASM<br>
 
 Index:
 
