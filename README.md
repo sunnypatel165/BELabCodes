@@ -98,12 +98,12 @@ Index:
 </ul>
 
 <b>Computer Graphics concepts</b>
-These are java applets.
-To run using CMD:
+These are java applets.<br>
+To run using CMD:<br>
 1. set the path<br>
-2. CD to the directory/folder where you save this 
-3. <code>javac filename.java</code>
-4. <code>appletviewer filename.java</code>
+2. CD to the directory/folder where you save this <br>
+3. <code>javac filename.java</code> <br>
+4. <code>appletviewer filename.java</code><br>
 
 Or 
 use netbeans/eclipse
