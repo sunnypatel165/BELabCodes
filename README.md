@@ -97,5 +97,24 @@ Index:
 <li>ICG</li>
 </ul>
 
+<b>Computer Graphics concepts</b>
+These are java applets.
+To run using CMD:
+1. set the path<br>
+2. CD to the directory/folder where you save this 
+3. <code>javac filename.java</code>
+4. <code>appletviewer filename.java</code>
+
+Or 
+use netbeans/eclipse
+<ul>
+<li> Bezier curve</li>
+<li> Bresenhem and DDA line drawing algorithms</li>
+<li> circle drwaing</li>
+<li> Circle moving- around a circle, around a diamond, on a sine wave</li>
+<li> cohen sutherland-normal and moving window</li>
+<li> draw various shapes like- fish, coconut</li>
+<li> flood fill basic and applications</li>
+</ul>
 
 Feel free to open an issue or pull request :)
